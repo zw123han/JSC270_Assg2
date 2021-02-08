@@ -1,2 +1,2 @@
-# JSC270_Assg2
-Repository with starter code for U of Toronto JSC270 Assignment 2 Winter 2021
+# Link to Colab notebook
+https://colab.research.google.com/drive/169b8g_poINzJHDU4uQgTuWSIIsendnvU?usp=sharing
